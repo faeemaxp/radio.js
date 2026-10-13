@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="phosphor_primary">#3CFF8F</color>
+    <color name="phosphor_secondary">#1FA85B</color>
+    <color name="phosphor_bright">#CCFFCC</color>
+    <color name="accent_amber">#FFB000</color>
+    <color name="accent_red">#FF4C4C</color>
+    <color name="screen_bg">#0A0E0B</color>
+    <color name="surface_card">#121814</color>
+</resources>

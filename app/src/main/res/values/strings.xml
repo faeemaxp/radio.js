@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pip-Boy Radio 3000</string>
+    <string name="channel_name">Pip-Boy Radio Broadcast</string>
+    <string name="channel_desc">Playback controls for Pip-Boy 3000 radio</string>
+    <string name="status_standby">STANDBY</string>
+    <string name="status_acquiring">ACQUIRING...</string>
+    <string name="status_broadcasting">BROADCASTING</string>
+    <string name="status_signal_err">SIGNAL ERR</string>
+    <string name="search_hint">FREQUENCY_</string>
+    <string name="btn_initialize">INITIALIZE</string>
+    <string name="btn_terminate">TERMINATE</string>
+</resources>

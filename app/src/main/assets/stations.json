@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "somafm-groovesalad",
+    "name": "SomaFM: Groove Salad",
+    "url": "https://ice1.somafm.com/groovesalad-128-mp3",
+    "category": "Wasteland Ambient"
+  },
+  {
+    "id": "somafm-deepspaceone",
+    "name": "SomaFM: Deep Space One",
+    "url": "https://ice1.somafm.com/deepspaceone-128-mp3",
+    "category": "Wasteland Ambient"
+  },
+  {
+    "id": "somafm-secretagent",
+    "name": "SomaFM: Secret Agent",
+    "url": "https://ice1.somafm.com/secretagent-128-mp3",
+    "category": "Vault Jazz"
+  },
+  {
+    "id": "somafm-dronezone",
+    "name": "SomaFM: Drone Zone",
+    "url": "https://ice1.somafm.com/dronezone-128-mp3",
+    "category": "Wasteland Ambient"
+  },
+  {
+    "id": "nightwave-plaza",
+    "name": "Nightwave Plaza",
+    "url": "https://radio.plaza.one/mp3",
+    "category": "Pre-War Wave"
+  },
+  {
+    "id": "somafm-defcon",
+    "name": "Radio Fallout (DEF CON)",
+    "url": "https://ice1.somafm.com/defcon-128-mp3",
+    "category": "RobCo Emergency"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Vividh Bharati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-fm-gold/",
+    "name": "FM Gold Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-fm-rainbow/",
+    "name": "FM Rainbow Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-Raagam/",
+    "name": "Raagam",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-air-punjabi/",
+    "name": "Live News 24x7",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-air-marathi/",
+    "name": "Akasvani Marathi Mumbai Ashmita",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-air-punjabi/",
+    "name": "Akashvani Punjabi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-air-tamil/",
+    "name": "Akashvani Tamil Nadu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-air-malayalam/",
+    "name": "Akashvani Kerla",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Aadilabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Delhi Indraprastha",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Port Blair",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Anantapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kadapa",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kurnool",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Markapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Simhapuri Nellore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tirupati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akasvani Andhra Pradesh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Vijayawada",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VB Telugu Vijayawada",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Visakhapatnam",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Visakhapatnam",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Itanagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Arun Itanagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Pasighat",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tawang",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tezu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dibrugarh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Diphu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Guwahati Mahabahu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Guwahati Pragjyotishpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Haflong",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jorhat",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Nagaon",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Silchar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tezpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhagalpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Darbhanga",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Patna",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Patna",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Patna",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Purnia Bihar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Sasaram",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chandigarh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ambikapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bilaspur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jagdalpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Raigarh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chhattisgarh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Raipur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Saraipali",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Daman",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mahadei Panaji",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Panaji",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Ahmedabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ahwa",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhuj",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Godhra",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Himmatnagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Rajkot",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Rajkot",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Surat",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Vadodara",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Hisar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kurukshetra",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Rohtak",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dharamshala",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Hamirpur FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio243/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Shimla",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Shimla FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhaderwah",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jammu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kathua",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Srinagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chaibasa",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Daltonganj",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Hazaribagh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jamshedpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Jamshedpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ranchi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Ranchi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Ranchi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bellari",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Karnataka",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Amrutvarshini",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Rainbow Kannada Kaamanbilu",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VB KANNADA",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhadravati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bijapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chitradurga",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dharwad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kalaburgi (Gulbarga)",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Hassan",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Hospet",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Karwar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mysuru",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mangalore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Madikeri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Raichur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Devikulam",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kannur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Kochi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kochi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Calicut",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kozhikode Real FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Manjeri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Trissur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VB MALAYALAM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kargil",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Leh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kavaratti",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Balaghat",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Betul",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhopal",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Bhopal",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chhatarpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chhindwara",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Guna",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Gwalior",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Indore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Indore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jabalpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jabalpur FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Khandwa",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Rewa",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Sagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Shahdol",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Shivpuri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ahilyanagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Akola",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Amravati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chhatrapati Sambhaji Nagar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Beed",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chandrapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dhule",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jalgaon",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kolhapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Gold Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Sanvadita Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Nagpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Nagpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Nanded",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Nasik",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dharashiv",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Parbhani",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Pune",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Pune FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ratnagiri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Sindhudurg",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Sangli",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Satara",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Solapur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Yavatmal",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Churachandpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Imphal Kangla",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Imphal Sangai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jowai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Shillong",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Jongphi Shillong",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani North East Livestream",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tura",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Aizawl",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Zowai Aizawl",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Lunglei",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio269/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mokokchung",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kohima",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Tragopan Kohima",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Baripada",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Berhampur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhawanipatna",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Balangir",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Odia",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Cuttack",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Cuttack",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jeypore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Joranda",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Keonjhar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Puri FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Rourkela",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mahanadi Sambalpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Sambalpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Karaikal",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Puducherry",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Puducherry",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bhatinda",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainboww Jalandhar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Patiala",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Alwar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Banswara",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Barmer",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bikaner",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Chittorgarh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Churu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jaipur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VBS Jaipur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8",
+    "category": "Vividh Bharati"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jaisalmer",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jhalawar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jodhpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jodhpur Sun City FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kota",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mount Abu",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Nagaur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Sawai Madhopur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Suratgarh",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Udaipur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Udaipur FM Lake CIty",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Gangtok",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Gold Chennai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VB Tamil Chennai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Coimbatore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Coimbatore",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dharmapuri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kodaikanal",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Madurai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Nagercoil Kumari ",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ooty",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tiruchirapalli ",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tiruchirappalli FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tirunelveli",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM RainbowTirunelveli ",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Tuticorin",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Telangana",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Hyderabad ",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "VB:Telugu Hyderabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kothagudem",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Nizamabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Warangal",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Agartala",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Ujjayanta Agartala",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Belonia",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kailashahar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Agra",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Prayagraj",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bareilly",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Ayodhya",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Gorakhpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Jhansi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kanpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Kanpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Lucknow",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Lucknow",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Mathura",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Najibabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Obra",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Rampur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Varanasi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Almora",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Dehradun",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Pauri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Bangla",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kolkata Geetanjali",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kolkata Sanchayita",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Gold Kolkata",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Kolkata",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "vbs Kolkata",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kurseong",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Murshidabad",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Shantiniketan",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Maitree",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Siliguri",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Gujarati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Kokrajhar",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "Akashvani Aaradhana",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8",
+    "category": "Akashvani"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "FM Rainbow Chennai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+    "category": "FM"
+  },
+  {
+    "id": "/channel-vividh-bharati/",
+    "name": "KumbhVani",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio300/playlist.m3u8",
+    "category": "Akashvani"
+  }
+]
