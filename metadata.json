@@ -1,0 +1,6 @@
+{
+  "name": "Pip-Boy Radio 3000",
+  "description": "RobCo Industries Pip-Boy 3000 retro-futuristic CRT radio terminal and live audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
